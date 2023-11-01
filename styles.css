@@ -4,16 +4,17 @@
 	align-items:center;
 	width:100vw;
 }
-
 img{
+	width:80%;
 	object-fit:cover;
 }
 
-.img-con{
-	width:60%;
-}
+
+
 .text-con{
-	width:40%;
+	text-align:center;
+	width:20%;
+	padding:20px;
 }
 
 button{
